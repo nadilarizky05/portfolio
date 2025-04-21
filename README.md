@@ -1,5 +1,7 @@
 # PORTFOLIO WEBSITE 2025
 
+![Education Festival Website Preview](images/portfolio.png)
+
 For this project, I created a specialized website showcasing my work results and all my best projects displayed on this portfolio web. I built it using the simplest approach, utilizing HTML, CSS, and basic JS, as this aligns with its purpose of displaying images and serving as a basic informational website.
 
 ## Project Structure
